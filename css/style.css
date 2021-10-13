@@ -1,0 +1,64 @@
+/*start global css*/
+a{
+	text-decoration:none;
+	
+
+	
+}
+
+.clear{
+	clear:both;
+}
+ul{
+	list-style-type:none;
+	
+}
+*{
+	margin:0;
+	padding:0;
+}
+li{
+	list-style-type:none;
+}
+
+
+
+
+/*end global css*/
+.father{
+	width:560px;
+	height:724px;
+	Background-color:#EEE;
+	border:2px solid blue;
+	margin:40px auto;
+	padding:20px;
+	
+	
+}
+h1{
+	text-align:center;
+	margin-bottom:20px;
+}
+table input{
+	width:350px;
+	height:22px;
+	margin-bottom:2px;
+}
+p{
+	text-align:center;
+}
+.save{
+	background-color:blue;
+	width:60px;
+	height:20px;
+}
+.cancel{
+	background-color:#b99c9c;
+	width:60px;
+	height:20px;
+	font-weight:bold;
+}
+}
+
+		
+	
